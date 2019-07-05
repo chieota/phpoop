@@ -16,7 +16,7 @@
 
     echo "<br>";
 
-    echo $mercedez->get_details();
+
 
     echo "New line added";
 
